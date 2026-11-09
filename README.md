@@ -4,7 +4,6 @@ Proyecto de la asignatura **Desarrollo Frontend II (PFY2202)** – Experiencia 1
 *"Desarrollando sitios web con React avanzado"*.
 
 **Autor:** Marcelo Díaz Canales
-**Sitio publicado (GitHub Pages):** https://TU-USUARIO.github.io/supermercado-marcelo-diaz-pfy2202/
 
 ## Tecnologías
 
